@@ -67,6 +67,17 @@ f. Is Bay Area Safe to live and if yes, which is the safest city?
 * Pandas
 * Scipy
 
+# Findings
+
+* Commute percentage by car and rent prices are negatively correlated.
+* Rental price in bay area may not be dependent on the crime rate.
+* Overall,Bay area seems to be a safe place to rent.
+* Livermore is most affordable city for larger families. Tri valley as a whole is a good candidate for affordable rental in the SF bay area.
+* Number of beds have an impact on Rental Price
+* Size of the house is not affecting the rental prices.
+* San Francisco City has highest Rental Price compared to other bay area cities.
+
+
 
 
 
